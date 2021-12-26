@@ -1,3 +1,3 @@
 # Java-2-ano
 
-![image](https://user-images.githubusercontent.com/79423600/146688432-89f9e2ea-a3dc-4d43-9644-e116d6f01d3d.png)
+![pacman](https://user-images.githubusercontent.com/79423600/147419288-bbe47c51-f6cc-40c2-91b5-55cf2a53e671.png)
